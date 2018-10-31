@@ -45,6 +45,12 @@ Content Cell  | Content Cell| Content Cell|
 ```
 **效果**
 
+<div align="center">
+<img src="/images/小书匠增强型表格.png" width="200px"></img>
+<img src="/images/简书增强型表格.png" width="200px"></img>
+<img src="/images/github增强行表格.png" width="200px"></img>
+</div>
+
 ![小书匠增强型表格](/images/小书匠增强型表格.png)
 
 ![简书增强型表格](/images/简书增强型表格.png)
