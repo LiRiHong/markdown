@@ -51,11 +51,6 @@ Content Cell  | Content Cell| Content Cell|
 <img src="/images/github增强行表格.png" ></img>
 </div>
 
-![小书匠增强型表格](/images/小书匠增强型表格.png)
-
-![简书增强型表格](/images/简书增强型表格.png)
-
-![github增强行表格](/images/github增强行表格.png)
 
 **结论：只有小书匠支持增强型表格，其他两个暂时不支持**
 
@@ -87,7 +82,7 @@ Content Cell  | Content Cell| Content Cell|
 
 ![github高亮文字](/images/github高亮文字.png)
 
-**结论：只有小书匠支持增强型表格，其他两个暂时不支持**
+**结论：只有小书匠支持高亮文字，其他两个暂时不支持**
 
 ### 缩写定义
 缩写定义一般是用于英文比较多，一些大写字母的解释上，
