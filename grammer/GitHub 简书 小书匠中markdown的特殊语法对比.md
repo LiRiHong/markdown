@@ -46,9 +46,9 @@ Content Cell  | Content Cell| Content Cell|
 **效果**
 
 <div align="center">
-<img src="/images/小书匠增强型表格.png" ></img>
-<img src="/images/简书增强型表格.png" ></img>
-<img src="/images/github增强行表格.png" ></img>
+<img src="../images/小书匠增强型表格.png" ></img>
+<img src="../images/简书增强型表格.png" ></img>
+<img src="../images/github增强行表格.png" ></img>
 </div>
 
 
