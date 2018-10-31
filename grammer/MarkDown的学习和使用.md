@@ -332,5 +332,5 @@ Content Cell  | Content Cell| Content Cell|
 《GitHub 简书 小书匠中markdown的特殊语法对比》
 
 
-参考资料
+参考资料<br>
 1.文中大部分资料参考于小书匠的官网 http://markdown.xiaoshujiang.com/

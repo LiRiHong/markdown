@@ -45,11 +45,11 @@ Content Cell  | Content Cell| Content Cell|
 ```
 **效果**
 
-![小书匠增强型表格](./images/小书匠增强型表格.png)
+![小书匠增强型表格](/images/小书匠增强型表格.png)
 
-![简书增强型表格](./images/简书增强型表格.png)
+![简书增强型表格](/images/简书增强型表格.png)
 
-![github增强行表格](./images/github增强行表格.png)
+![github增强行表格](/images/github增强行表格.png)
 
 **结论：只有小书匠支持增强型表格，其他两个暂时不支持**
 
@@ -62,7 +62,7 @@ Content Cell  | Content Cell| Content Cell|
 ```
 **效果**
 
-![小书匠目录功能](./images/小书匠目录功能.png "小书匠目录功能")
+![小书匠目录功能](/images/小书匠目录功能.png "小书匠目录功能")
 
 **结论：只有小书匠支持增强型表格，其他两个暂时不支持**
 
@@ -75,11 +75,11 @@ Content Cell  | Content Cell| Content Cell|
 
 **效果**
 
-![小书匠高亮文字](./images/小书匠高亮文字.png)
+![小书匠高亮文字](/images/小书匠高亮文字.png)
 
-![简书高亮文字](./images/简书高亮文字.png)
+![简书高亮文字](/images/简书高亮文字.png)
 
-![github高亮文字](./images/github高亮文字.png)
+![github高亮文字](/images/github高亮文字.png)
 
 **结论：只有小书匠支持增强型表格，其他两个暂时不支持**
 
@@ -95,11 +95,11 @@ is maintained by the W3C.
 
 **效果**
 
-![小书匠缩写](./images/小书匠缩写.png)
+![小书匠缩写](/images/小书匠缩写.png)
 
-![github缩写](./images/github缩写.png)
+![github缩写](/images/github缩写.png)
 
-![简书缩写](./images/简书缩写.png)
+![简书缩写](/images/简书缩写.png)
 
 **结论：只有小书匠支持增强型表格，其他两个暂时不支持**
 
@@ -114,11 +114,11 @@ is maintained by the W3C.
 ```
 **效果**
 
-![小书匠代办事项](./images/小书匠代办事项.png)
+![小书匠代办事项](/images/小书匠代办事项.png)
 
-![github代办事项](./images/github代办事项.png)
+![github代办事项](/images/github代办事项.png)
 
-![简书待办事项](./images/简书待办事项.png)
+![简书待办事项](/images/简书待办事项.png)
 
 **结论：小书匠和github都支持代办事项功能，简书不支持**
 
@@ -131,11 +131,11 @@ is maintained by the W3C.
 ```
 **效果**
 
-![enter description here](./images/小书匠脚注.png)
+![enter description here](/images/小书匠脚注.png)
 
-![enter description here](./images/github脚注.png)
+![enter description here](/images/github脚注.png)
 
-![enter description here](./images/简书脚注.png)
+![enter description here](/images/简书脚注.png)
 
 **结论：小书匠和简书都支持脚注，github暂时不支持**
 
@@ -153,11 +153,11 @@ is maintained by the W3C.
 ```
 **效果**
 
-![小书匠定义](./images/小书匠定义.png)
+![小书匠定义](/images/小书匠定义.png)
 
-![github定义](./images/github定义.png)
+![github定义](/images/github定义.png)
 
-![简书定义](./images/简书定义.png)
+![简书定义](/images/简书定义.png)
 
 **结论：小书匠支持定义的功能，github和简书暂时不支持定义功能**
 
@@ -181,11 +181,11 @@ $$\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.$$
 
 **效果**
 
-![小书匠公式](./images/小书匠公式.png)
+![小书匠公式](/images/小书匠公式.png)
 
-![github公式](./images/github公式.png)
+![github公式](/images/github公式.png)
 
-![简书公式](./images/简书公式.png)
+![简书公式](/images/简书公式.png)
 
 **结论：小书匠支持公式功能，github和简书暂时不支持公式功能**
 
@@ -207,11 +207,11 @@ cond(no)->op
 
 **效果**
 
-![小书匠流程图](./images/小书匠流程图.png)
+![小书匠流程图](/images/小书匠流程图.png)
 
-![github流程图](./images/github流程图.png)
+![github流程图](/images/github流程图.png)
 
-![简书流程图](./images/简书流程图.png)
+![简书流程图](/images/简书流程图.png)
 
 **结论：小书匠支持流程图的功能，github和简书不支持流程图的功能**
 
@@ -228,11 +228,11 @@ Note right of 小李: 小李想了想
 
 **效果**
 
-![小书匠序列图](./images/小书匠序列图.png)
+![小书匠序列图](/images/小书匠序列图.png)
 
-![github序列图](./images/github序列图.png)
+![github序列图](/images/github序列图.png)
 
-![简书序列图](./images/简书序列图.png)
+![简书序列图](/images/简书序列图.png)
 
 **结论:小书匠支持序列图的功能，github和简书不支持序列图的功能**
 
@@ -248,12 +248,12 @@ Note right of 小李: 小李想了想
 
 **效果**
 
-![小书匠附件](./images/小书匠附件.png)
+![小书匠附件](/images/小书匠附件.png)
 
-![github附件](./images/github附件.png)
+![github附件](/images/github附件.png)
 没有正确显示附件，只是被标记为超链接了
 
-![简书附件](./images/简书附件.png)
+![简书附件](/images/简书附件.png)
 没有正确显示附件，只是被标记为超链接了
 
 **结论：小书匠能正确显示为附件，github和简书显示为超链接**
@@ -295,11 +295,11 @@ Note right of 小李: 小李想了想
 
 **效果**
 
-![小书匠拼音标注e](./images/小书匠拼音标注.png)
+![小书匠拼音标注e](/images/小书匠拼音标注.png)
 
-![github拼音标注](./images/github拼音标注.png)
+![github拼音标注](/images/github拼音标注.png)
 
-![简书拼音标注](./images/简书拼音标注.png)
+![简书拼音标注](/images/简书拼音标注.png)
 
 **结论：小书匠支持拼音标注，github和简书不支持拼音标注功能**
 
