@@ -81,6 +81,7 @@ Content Cell  | Content Cell| Content Cell|
 ![github高亮文字](/images/github高亮文字.png)
 
 ![简书高亮文字](/images/简书高亮文字.png)
+
 **结论：只有小书匠支持高亮文字，其他两个暂时不支持**
 
 ### 缩写定义

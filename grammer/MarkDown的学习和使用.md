@@ -332,5 +332,12 @@ Content Cell  | Content Cell| Content Cell|
 《GitHub 简书 小书匠中markdown的特殊语法对比》
 
 
-参考资料<br>
-1.文中大部分资料参考于小书匠的官网 http://markdown.xiaoshujiang.com/
+参考资料
+1.大部分资料参考于小书匠的[官网教程](http://markdown.xiaoshujiang.com/)
+2.具体规范请参考[《中文文案指北》](https://mazhuang.org/wiki/chinese-copywriting-guidelines/)
+
+其他参考博客
+1.[《Markdown语法大全》](https://www.jianshu.com/p/280e2ef4069e)
+2.[《Markdown的常用语法(个人总结)》](https://www.jianshu.com/p/82e730892d42)
+3.[《Markdown 语法整理大集合》](https://www.jianshu.com/p/b03a8d7b1719)
+4.[《Markdown 语法整理大集合2017》](https://www.jianshu.com/p/b03a8d7b1719)
